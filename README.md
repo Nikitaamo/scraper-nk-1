@@ -37,8 +37,9 @@ On Windows:
 5. **Install the required packages**: Install the required Python packages using pip:
 pip3 install -r requirements.txt
 
-6. 
-## Usage
+6. ** upgrade selenium pip3 install --upgrade selenium
+
+7. ## Usage
 To run the script, make sure your virtual environment is activated, and execute the following command:
 python3 scraper.py
 
