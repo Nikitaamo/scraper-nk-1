@@ -22,22 +22,22 @@ This script was tested on macOS, but it should work on other operating systems t
 To set up the project, follow these steps:
 
 1. **Clone the repository**: Clone the repository to your local machine using the command below:
-git clone https://github.com/Nikitaamo/scraper-nk-1.git
-cd scraper-nk-1
+   git clone https://github.com/Nikitaamo/scraper-nk-1.git
+   cd scraper-nk-1
 
-2. **Set up a Python virtual environment**: Create a virtual environment in the project directory:
+3. **Set up a Python virtual environment**: Create a virtual environment in the project directory:
 python3 -m venv venv
 
-3. **Activate the virtual environment**: Activate the virtual environment to use it:
+4. **Activate the virtual environment**: Activate the virtual environment to use it:
 On macOS and Linux:
 source venv/bin/activate
 On Windows:
 .\venv\Scripts\activate
 
-4. **Install the required packages**: Install the required Python packages using pip:
+5. **Install the required packages**: Install the required Python packages using pip:
 pip3 install -r requirements.txt
 
-5. 
+6. 
 ## Usage
 To run the script, make sure your virtual environment is activated, and execute the following command:
 python3 scraper.py
